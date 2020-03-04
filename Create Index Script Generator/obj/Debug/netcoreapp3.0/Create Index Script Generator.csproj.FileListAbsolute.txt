@@ -1,0 +1,13 @@
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Create Index Script Generator.exe
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\obj\Debug\netcoreapp3.0\Create Index Script Generator.csprojAssemblyReference.cache
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\obj\Debug\netcoreapp3.0\Create Index Script Generator.AssemblyInfoInputs.cache
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\obj\Debug\netcoreapp3.0\Create Index Script Generator.AssemblyInfo.cs
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Create Index Script Generator.deps.json
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Create Index Script Generator.runtimeconfig.json
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Create Index Script Generator.runtimeconfig.dev.json
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Create Index Script Generator.dll
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Create Index Script Generator.pdb
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\obj\Debug\netcoreapp3.0\Create Index Script Generator.csproj.CopyComplete
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\obj\Debug\netcoreapp3.0\Create Index Script Generator.dll
+C:\Users\joao.alves\source\repos\Create Index Script Generator\Create Index Script Generator\obj\Debug\netcoreapp3.0\Create Index Script Generator.pdb

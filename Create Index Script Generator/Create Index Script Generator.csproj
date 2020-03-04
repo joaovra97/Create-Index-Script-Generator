@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Create_Index_Script_Generator</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="JSON\" />
+    <Folder Include="Result Script\" />
+    <Folder Include="Script Examples\" />
+  </ItemGroup>
+
+</Project>
