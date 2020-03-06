@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.alves\\source\\repos\\Create Index Script Generator\\Create Index Script Generator\\Create Index Script Generator.csproj",
+      "projectUniqueName": "C:\\Users\\joao.alves\\source\\repos\\Create Index Script Generator\\Create-Index-Script-Generator\\Create Index Script Generator\\Create Index Script Generator.csproj",
       "projectName": "Create Index Script Generator",
-      "projectPath": "C:\\Users\\joao.alves\\source\\repos\\Create Index Script Generator\\Create Index Script Generator\\Create Index Script Generator.csproj",
+      "projectPath": "C:\\Users\\joao.alves\\source\\repos\\Create Index Script Generator\\Create-Index-Script-Generator\\Create Index Script Generator\\Create Index Script Generator.csproj",
       "packagesPath": "C:\\Users\\joao.alves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.alves\\source\\repos\\Create Index Script Generator\\Create Index Script Generator\\obj\\",
+      "outputPath": "C:\\Users\\joao.alves\\source\\repos\\Create Index Script Generator\\Create-Index-Script-Generator\\Create Index Script Generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

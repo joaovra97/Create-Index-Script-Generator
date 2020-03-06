@@ -1,0 +1,197 @@
+[
+{
+    "db" : "QuestorEdoc00135841000106",
+    "company_name" : "Z & M Software Ltda",
+    "federal_registration" : "00135841000106",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Number_1", 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Category._id_1", 
+                "Client._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Category._id_1", 
+                "Client._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Category._id_1", 
+                "Client._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Category._id_1", 
+                "Client._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc01422667000145",
+    "company_name" : "Contplan Consultoria Empresarial Sociedade Simples - Epp",
+    "federal_registration" : "01422667000145",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1", 
+                "Number_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : [ 
+                "Emission_-1"
+            ]
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [ 
+                "Key", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [ 
+                "Key", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc01522071000117",
+    "company_name" : "Controle Contabilidade Ltda",
+    "federal_registration" : "01522071000117",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1", 
+                "Number_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : [ 
+                "Emission_-1"
+            ]
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : [ 
+                "DateEmission_1"
+            ]
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [ 
+                "Key", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [ 
+                "Key_1", 
+                "Client._id_1", 
+                "Category._id_1"
+            ],
+            "missed_indexes" : [],
+            "not_expected_indexes" : [ 
+                "DateEmission_1"
+            ]
+        }
+    ]
+}]

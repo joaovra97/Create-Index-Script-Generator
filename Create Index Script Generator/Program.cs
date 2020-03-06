@@ -14,8 +14,13 @@ namespace Create_Index_Script_Generator
 			List<DataBase> dataBases = new List<DataBase>();
 			List<Index> missedIndexes = new List<Index>();
 			List<Index> notExpectedIndexes = new List<Index>();
+			var dbName = "DB01";
+			//var dbName = "DB02";
+			//var dbName = "DB03";
+			//var dbName = "DB04";
+			//var dbName = "DBRui";
 
-			using (StreamReader r = new StreamReader("../../../JSON/indexes.json"))
+			using (StreamReader r = new StreamReader($"../../../JSON/indexes{dbName}.json"))
 			{
 				string json = r.ReadToEnd();
 				dataBases = JsonConvert.DeserializeObject<List<DataBase>>(json);
@@ -72,7 +77,7 @@ namespace Create_Index_Script_Generator
 
 			var scriptString = scriptStringBuilder.ToString();
 
-			using (FileStream fs = File.Create("../../../Result Script/insertIndexes.js"))
+			using (FileStream fs = File.Create($"../../../Result Script/insertIndexes{dbName}.js"))
 			{
 				byte[] info = new UTF8Encoding(true).GetBytes(scriptString);
 				fs.Write(info, 0, info.Length);

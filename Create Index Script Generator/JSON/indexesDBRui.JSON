@@ -1,0 +1,389 @@
+[
+{
+    "db" : "QuestorEdoc08651809000195",
+    "company_name" : "RC ASSESSORIA CONTABIL E EMPRESARIAL EIRELI",
+    "federal_registration" : "08651809000195",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1"
+            ],
+            "missed_indexes" : [ 
+                "Number", 
+                "Category._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc08825817000100",
+    "company_name" : "SETA CONTABILIDADE",
+    "federal_registration" : "08825817000100",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1"
+            ],
+            "missed_indexes" : [ 
+                "Number", 
+                "Category._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc17425174000107",
+    "company_name" : "Matur Organizacão Contábil Ltda",
+    "federal_registration" : "17425174000107",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1", 
+                "Number_1"
+            ],
+            "missed_indexes" : [ 
+                "Category._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc17804753000152",
+    "company_name" : "RUI Cadete-paraiba Consultores e Auditores Ss Ltda",
+    "federal_registration" : "17804753000152",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1"
+            ],
+            "missed_indexes" : [ 
+                "Number", 
+                "Category._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc24519969000131",
+    "company_name" : "Rui Cadete Consultores e Auditores Associados Ltda",
+    "federal_registration" : "24519969000131",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1"
+            ],
+            "missed_indexes" : [ 
+                "Number", 
+                "Category._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }
+    ]
+}
+
+,
+{
+    "db" : "QuestorEdoc77500346000183",
+    "company_name" : "Eaco Consultoria e Contabilidade Ltda",
+    "federal_registration" : "77500346000183",
+    "collections" : [ 
+        {
+            "name" : "Nfe",
+            "expected_indexes" : [ 
+                "Client._id_1", 
+                "Emission_1", 
+                "Issuer_1", 
+                "ClientToOrder_1"
+            ],
+            "missed_indexes" : [ 
+                "Number", 
+                "Category._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Nfce",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : [ 
+                "DhEmi"
+            ]
+        }, 
+        {
+            "name" : "Cte",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cteos",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }, 
+        {
+            "name" : "Cfe",
+            "expected_indexes" : [],
+            "missed_indexes" : [ 
+                "Key", 
+                "Category._id", 
+                "Client._id"
+            ],
+            "not_expected_indexes" : []
+        }
+    ]
+}]
